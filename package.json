@@ -1,0 +1,13 @@
+{
+  "name": "kui-touchable-opacity",
+  "version": "1.0.0",
+  "description": "KUI TouchableOpacity",
+  "main": "index.jsx",
+  "author": "Víctor Martínez <knoopx@gmail.com> (http://knoopx.net)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-motion": "^0.4.7"
+  }
+}
